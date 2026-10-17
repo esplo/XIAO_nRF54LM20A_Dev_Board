@@ -1,0 +1,4 @@
+lib/
+.history/
+*.kicad_prl
+.DS_Store
